@@ -2,6 +2,10 @@
 
 **CRASS** is a simple [responsive CSS](http://www.alistapart.com/articles/responsive-web-design/) grid library for mobile devices, tablets, and monitors.
 
+## Demo
+
+We all want to [see the demo](http://dl.dropbox.com/u/2066483/crass-demo/index.html) before downloading, don't we?
+
 ## Features
 
 - Mobile:   1 column
